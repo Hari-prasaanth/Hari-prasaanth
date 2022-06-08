@@ -1,5 +1,6 @@
-# Hi! I'm Hariprasaanth 👋 
-
+<div align=center> 
+  <h1> Hi! I'm Hariprasaanth 👋 </h1>
+</div>
 
 ### Pentesting Skillsㅤ
 ➤ 𝗪𝗘𝗕 Application Penetration Testing <br>
