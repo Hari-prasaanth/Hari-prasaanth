@@ -1,0 +1,11 @@
+echo "Enter The Subnet:"
+read subnet
+out="$subnet.0.txt"
+for ip in $(seq 1 255); do
+ping -c 1 -W 1 "$subnet.$ip" | grep "from" | cut -d " " -f 4 | cut -d ":" -f 1 | tee -a "${out}" &
+sleep .03
+done;
+echo "Starting nmap"
+for ip in $(cat $subnet.0.txt); do
+nmap -oN nmap $ip.txt -sS -p 80 -T4 $ip;done
+trap 'sleep infinity' EXIT
