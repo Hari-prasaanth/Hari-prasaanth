@@ -10,6 +10,7 @@
 ➤ API Penetration Testing <br>
 ➤ Thich Client Penetration Testing <br>
 ➤ Thin Client Penetration Testing <br>
+➤ Azure Penetration Testing <br>
 
 ### Other Skills
 ➤ Vulnerability Assessment <br>
