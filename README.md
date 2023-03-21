@@ -2,10 +2,10 @@
   <h1> Hi! I'm Hariprasaanth 👋 </h1>
 </div>
 
-<p align="center">
-<img src="https://media2.giphy.com/media/ztpMY1t5VYWlO/giphy.gif?cid=ecf05e47kxgg857a2wfcnt3ibyn7rgzar2ac4iksiau5so5b&rid=giphy.gif&ct=g" alt="Example Image" width="350" height="200">
-</p>
 
+<br>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif?cid=ecf05e47s6f6cij2n82wo6hscttsirp4klp7j0pkozd7ms49&rid=giphy.gif&ct=s" width="400" height="355" />
+<br/><br/>
 
 ### Pentesting Skillsㅤ
 ➤ Web Application Penetration Testing <br>
@@ -42,3 +42,7 @@
 ➤ <b>THREAT AND VULNERABILITY MANAGEMENT</b> → Nessus / MITRE / Yara / ISAC / MISP <br>
 ➤ <b>SECURITY OPERATIONS AND MONITORING</b> → Sysmon / Suricata / Splunk / OpenEDR  <br>
 ➤ <b>INCIDENT RESPONSE AND FORENSICS</b> → Volatility / Autospy / Redline <br>
+
+<a href="https://www.linkedin.com/in/hariprasaanth/">
+  <img align="left" alt="Hariprasaanth" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
+  </a>
