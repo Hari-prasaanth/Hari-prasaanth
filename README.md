@@ -2,6 +2,11 @@
   <h1> Hi! I'm Hariprasaanth 👋 </h1>
 </div>
 
+<p align="center">
+<img src="https://media2.giphy.com/media/ztpMY1t5VYWlO/giphy.gif?cid=ecf05e47kxgg857a2wfcnt3ibyn7rgzar2ac4iksiau5so5b&rid=giphy.gif&ct=g" alt="Example Image" width="350" height="200">
+</p>
+
+
 ### Pentesting Skillsㅤ
 ➤ Web Application Penetration Testing <br>
 ➤ Network Penetration Testing <br>
