@@ -41,6 +41,7 @@
 ➤ <b>SECURITY OPERATIONS AND MONITORING</b> → Sysmon / Suricata / Splunk / OpenEDR  <br>
 ➤ <b>INCIDENT RESPONSE AND FORENSICS</b> → Volatility / Autospy / Redline <br>
 
-<a href="https://www.linkedin.com/in/hariprasaanth/">
+<a href="https://www.linkedin.com/in/hariprasaanth/" target="_blank">
   <img align="left" alt="Hariprasaanth" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
-  </a>
+</a>
+
