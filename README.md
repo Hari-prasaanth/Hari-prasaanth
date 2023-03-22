@@ -42,6 +42,6 @@
 ➤ <b>INCIDENT RESPONSE AND FORENSICS</b> → Volatility / Autospy / Redline <br>
 
 <a href="https://www.linkedin.com/in/hariprasaanth/" target="_blank">
-  <img align="left" alt="Hariprasaanth" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
+  <img align="left" alt="Hariprasaanth" width="22px" src="https://user-images.githubusercontent.com/107095268/226769231-da3214d4-1093-4865-84b9-45a394584cb5.png" /> 
 </a>
 
