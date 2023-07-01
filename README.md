@@ -2,7 +2,7 @@
   <h1> Hi! I'm Hariprasaanth 👋 </h1>
 </div>
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif?cid=ecf05e47s6f6cij2n82wo6hscttsirp4klp7j0pkozd7ms49&rid=giphy.gif&ct=s" width="400" height="355" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/yUuiIE0Pt8e7AxyvX2/giphy.gif" width="350" height="350" />
 <br/><br/>
 
 ### Pentesting Skillsㅤ
